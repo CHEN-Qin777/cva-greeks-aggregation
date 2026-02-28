@@ -39,8 +39,7 @@ pip install -r requirements.txt
 ### Version locale
 Exécutez les scripts dans l'ordre ou utilisez les modules dans votre propre code.
 
-### Version Colab
-Ouvrez le notebook [`cva_analyse_complete.ipynb`](notebooks/cva_analyse_complete.ipynb) dans Google Colab et exécutez toutes les cellules.
+
 
 ## 📊 Résultats obtenus
 
